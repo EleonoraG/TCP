@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : EServer.c
+ Name        : Server.c
  Author      : Eleonora Ghizzota
  Version     :
  Copyright   : Your copyright notice

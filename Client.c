@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : EClient.c
+ Name        : Client.c
  Author      : Eleonora Ghizzota
  Version     :
  Copyright   : Your copyright notice
